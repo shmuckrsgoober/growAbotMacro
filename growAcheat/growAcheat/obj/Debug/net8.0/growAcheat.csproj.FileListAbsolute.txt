@@ -1,0 +1,14 @@
+C:\Users\Adam\Desktop\growAcheat\growAcheat\bin\Debug\net8.0\growAcheat.exe
+C:\Users\Adam\Desktop\growAcheat\growAcheat\bin\Debug\net8.0\growAcheat.deps.json
+C:\Users\Adam\Desktop\growAcheat\growAcheat\bin\Debug\net8.0\growAcheat.runtimeconfig.json
+C:\Users\Adam\Desktop\growAcheat\growAcheat\bin\Debug\net8.0\growAcheat.dll
+C:\Users\Adam\Desktop\growAcheat\growAcheat\bin\Debug\net8.0\growAcheat.pdb
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\growAcheat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\growAcheat.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\growAcheat.AssemblyInfo.cs
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\growAcheat.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\growAcheat.dll
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\refint\growAcheat.dll
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\growAcheat.pdb
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\growAcheat.genruntimeconfig.cache
+C:\Users\Adam\Desktop\growAcheat\growAcheat\obj\Debug\net8.0\ref\growAcheat.dll
